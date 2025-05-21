@@ -1,7 +1,10 @@
 # 3d-printed-uv-pcb-mask
 An alternative version to make PCBs at home using a 3D printer instead of laser or inkjet paper printer
 
-> [!CAUTION]
+>[!CAUTION]
+> This repo isn't a step-by-step tutorial for PCB making from scratch (might change).
+
+> [!WARNING]
 > This method isn't perfect, and it's pretty much under work, there's a lot to improve and probably it'll never be a perfect method
 
 This open-source method describes a **fast**, **reliable**, and **reusable** way to create UV exposure masks for PCB fabrication using a 3D printer and dual-filament technique. Developed through trial and error, this approach replaces the traditional printed transparencies or toner transfers with a clean 10-minute print.
@@ -25,7 +28,7 @@ This technique solves that by using **black and translucent PLA** in one fused p
 | 3D Printer | With **Optional** AMS/multi-material capability (e.g., Bambu X1C, Prusa MMU) |
 | Filament | Black PLA + **Optional** Translucent / White PLA or any other filament which is more UV resistant|
 | Nozzle | 0.2mm (recommended) but 0.4mm can work too|
-| Layer Height | 0.08mm - 0.1mm|
+| Layer Height | 0.06mm - 0.1mm|
 | PCB Material | Pre-sensitized UV board or Dry photosensitive sheet |
 | UV Light Source | 365–405nm recommended |
 | Etching Setup | Ferric chloride, sodium persulfate, etc. |
@@ -44,7 +47,7 @@ This technique solves that by using **black and translucent PLA** in one fused p
 
 ## Exposure & Etching
 
-- Place printed mask directly on copper board.
+- Place printed mask directly on copper board (with photosensitve layer already applied).
 - Weigh down with a clear acrylic sheet or glass piece for tight contact.
 - Typical UV exposure: **1–5 minutes** depending on light strength.
 - Etch normally. Resulting traces should be clean and well-defined.
@@ -53,7 +56,7 @@ This technique solves that by using **black and translucent PLA** in one fused p
 
 ## Gallery & Results
 
-Check `images` for microscope photos and versions:
+Check [images](./images/README.md) for microscope photos and versions:
 
 | Version | Improvements |
 |---------|--------------|
@@ -74,8 +77,6 @@ Check `images` for microscope photos and versions:
 
 ---
 
-
----
 
 ## My Setup
 
