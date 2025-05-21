@@ -1,5 +1,8 @@
 # 3d-printed-uv-pcb-mask
-An easy alternative version to make PCBs at home using a 3D printer
+An alternative version to make PCBs at home using a 3D printer instead of laser or inkjet paper printer
+
+> [!CAUTION]
+> This method isn't perfect, and it's pretty much under work, there's a lot to improve and probably it'll never be a perfect method
 
 This open-source method describes a **fast**, **reliable**, and **reusable** way to create UV exposure masks for PCB fabrication using a 3D printer and dual-filament technique. Developed through trial and error, this approach replaces the traditional printed transparencies or toner transfers with a clean 10-minute print.
 
