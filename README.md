@@ -84,7 +84,7 @@ Check [images](./images/README.md) for microscope photos and versions:
 |---------------------|----------------------------|
 | 3D Printer          | Bambu Lab A1 Mini          |
 | Nozzle Size         | 0.2 mm                     |
-| Print Bed           | Super Tack Bed Sheet       |
+| Print Bed           | Bambu Cool Plate SuperTack |
 | Black Filament      | Creality Black PLA         |
 | Translucent Filament| Elegoo Translucent PLA     |
 | PCB Material        | Dry Photosensitive Sheet   |
