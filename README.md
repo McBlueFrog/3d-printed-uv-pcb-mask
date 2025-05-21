@@ -73,3 +73,21 @@ Check `images` for microscope photos and versions:
 | Light bleeding | Use dark filament and flat bed or more weight|
 
 ---
+
+
+---
+
+## My Setup
+
+| Component           | Details                    |
+|---------------------|----------------------------|
+| 3D Printer          | Bambu Lab A1 Mini          |
+| Nozzle Size         | 0.2 mm                     |
+| Print Bed           | Super Tack Bed Sheet       |
+| Black Filament      | Creality Black PLA         |
+| Translucent Filament| Elegoo Translucent PLA     |
+| PCB Material        | Dry Photosensitive Sheet   |
+| Etchant             | Ferric Chloride            |
+| Neutralizer         | Sodium Carbonate           |
+| UV Light Source     | 365 nm LED Strips (8.64 W/m) |
+| Post-processing Tool| Laminator                  |
